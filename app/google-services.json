@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "35092974611",
+    "firebase_url": "https://coca-cola-bde16.firebaseio.com",
+    "project_id": "coca-cola-bde16",
+    "storage_bucket": "coca-cola-bde16.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:35092974611:android:0d4b8579500fe1f69bc3e6",
+        "android_client_info": {
+          "package_name": "com.example.supercookie"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "35092974611-fnlf5i2h50jgbnph39ek5tl5o2h1qoi5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9ay-sgox_S2WxD3O3eniinoYggiBwrMI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "35092974611-fnlf5i2h50jgbnph39ek5tl5o2h1qoi5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
